@@ -17,3 +17,4 @@ Meeting Times:
   Wednesdays after class 9-10pm
   Fridays 7-10pm
 
+## Possible Resources
