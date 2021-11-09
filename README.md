@@ -18,3 +18,4 @@ Meeting Times:
   Fridays 7-10pm
 
 ## Possible Resources
+https://datahub.io/collections/stock-market-data
