@@ -19,3 +19,5 @@ Meeting Times:
 
 ## Possible Resources
 https://datahub.io/collections/stock-market-data
+
+https://www.kaggle.com/iainmcintosh/reddit-sentiment-analysis-for-gme-with-stock-data/activity (Farida)
