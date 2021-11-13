@@ -1,11 +1,9 @@
 # Capstone_Project
 
 ## Topic
-Stock prices are not soley a result of the quality of a company. Prices are most specifically, based on the preceived quality of a company. If enough people see, spread, and act based off what they see on social media, it can grow to become an equaly powerful contributor to stock prices as actual business reports. Certain large media platforms seem to draw these sentiments our where entire communities can form based around a stock or idea. The questions is, to what degree does social sentiment affect certain stock prices?
+Stock prices are not soley a result of the quality of a company. Prices are most specifically, based on the preceived quality of a company. If enough people see, spread, and act based off what they see on social media, it can grow to become an equaly powerful contributor to stock prices as actual business reports. Certain large media platforms seem to draw these sentiments our where entire communities can form based around a stock or idea. These communities strenghten and reinforce these sentiments causing waves of high volitiy and price surges and dips. The questions is, to what degree does social sentiment affect certain stock prices?
 
 For our analysis, we are focusing on a spread of stock classifications varying from income, growth, and penny.
-
-
 
 
 
@@ -40,11 +38,13 @@ Maybe add a 'meme' stock category. That way we can include things like gamestop 
 Total of 9-12 stocks analyzed
 
 Decide what social media outlet to use:
-Reddit API: https://praw.readthedocs.io/en/stable/
+
+Reddit API: https://www.reddit.com/dev/api/
+Reddit API Wrapper: https://praw.readthedocs.io/en/stable/
 
 Reddit Resources:
 https://www.jcchouinard.com/reddit-api/
 https://www.jcchouinard.com/reddit-api-without-api-credentials/
 
 Twitter API:
-Twitter library for coding: https://pypi.org/project/pytwitter/
+Twitter Wrapper: https://pypi.org/project/pytwitter/
