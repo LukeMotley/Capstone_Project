@@ -1,55 +1,37 @@
 # Capstone_Project
 
 ## Topic
-Stock prices are not soley a result of the quality of a company. Prices are most specifically, based on the preceived quality of a company. If enough people see, spread, and act based off what they see on social media, it can grow to become an equaly powerful contributor to stock prices as actual business reports. Certain large media platforms seem to draw these sentiments our where entire communities can form based around a stock or idea. These communities strenghten and reinforce these sentiments causing waves of high volitiy and price surges and dips. The questions is, to what degree does social sentiment affect certain stock prices?
+Stock prices are not soley a result of the quality of a company. Prices are most specifically, based on the preceived quality of a company. If enough people see, spread, and act based off what they see on social media, it can grow to become an equaly powerful contributor to stock prices as actual business reports. Certain large media platforms seem to draw these sentiments our where entire communities can form based around a stock or idea. These communities strenghten and reinforce these sentiments causing waves of high volitiy and price surges and dips. Though extreme volatility might be acceptable for some investors, many would not bet there entire savings on a stock purely based on these meme stocks. But how do surges of meme stocks wripple throughout the entire market?
 
 For our analysis, we are focusing on a spread of stock classifications varying from income, growth, and penny.
 
-
-
 ## Why We selected the topic
-Luke: I am interested in this topic because I have always had in interest in stocks, but more so focused on the business side, rather than the more socila aspect. After preliminary research, I believe taking social sentiment into account plays a bigger part in the eb and flow of the stock market than I initially thought.
+We were all onterested in how the stock market works, and the various meme stocks like Gamesop and AMC came into the conversation. The conversation slowly grew to how the market as a whole is affeccted by stocks like Gamestop and AMC getting attention on social media.
 
 ## Questions they hope to answer with the data
-Luke: How much will a stock price change when there is a positive and negative sentiment in the social media platform
+How is the stock market affected by the surges and dips of GME?
+Are certain stocks more correlated in price change to GME?
+How is GME and AMC correlated?
+Could these price changes be predicted as a new meme stock is growing?
 
 ## Description of their source of data
+Reddit GME wallstreetbets data and sentiment analysis on Kaggle.com 
+Stock historical data form Yahoofinance
 
 ## Communication Protocol
 Communication will consist of zoom meetings and messages over slack.
 Meeting Times:
-  Mondays after class 9-10pm
-  Wednesdays after class 9-10pm
-  Fridays 7-10pm
-
-## Possible Resources
-https://datahub.io/collections/stock-market-data
-
-https://www.kaggle.com/iainmcintosh/reddit-sentiment-analysis-for-gme-with-stock-data/activity (Farida)
+  Mondays after class 7-9pm
+  Wednesdays after class 7-9pm
+  Fridays 7-10pm or Saturdays 10-12pm
   
-## Actual meeting times:
-11/8: 7-9pm
-11/10: 7-9pm
-11/11: 8-9:15
-11/13: 10-12pm
+# Plan
+CSVs from YahooFinance will be cleaned in python.
+![image](https://user-images.githubusercontent.com/85656361/142733759-5cd50aaf-db6c-4fc8-a729-e7f043b6479e.png)
 
 
+These files will get exported to a database
 
-## New items
 
-I'm thinking we choose 3 from each stock category 
-Maybe add a 'meme' stock category. That way we can include things like gamestop and AMC
-
-Total of 9-12 stocks analyzed
-
-Decide what social media outlet to use:
-
-Reddit API: https://www.reddit.com/dev/api/
-Reddit API Wrapper: https://praw.readthedocs.io/en/stable/
-
-Reddit Resources:
-https://www.jcchouinard.com/reddit-api/
-https://www.jcchouinard.com/reddit-api-without-api-credentials/
-
-Twitter API:
-Twitter Wrapper: https://pypi.org/project/pytwitter/
+files in data base run throse machine learning model (model is up and running)
+https://github.com/LukeMotley/Capstone_Project/blob/main/Farida_Work_Nov19/Notes_MachineLearning_Farida_Nov20.md
