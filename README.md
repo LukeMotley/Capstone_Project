@@ -1,12 +1,12 @@
 # Capstone_Project
 
 ## Topic
-Stock prices are not soley a result of the quality of a company. Prices are most specifically, based on the preceived quality of a company. If enough people see, spread, and act based off what they see on social media, it can grow to become an equaly powerful contributor to stock prices as actual business reports. Certain large media platforms seem to draw these sentiments our where entire communities can form based around a stock or idea. These communities strenghten and reinforce these sentiments causing waves of high volitiy and price surges and dips. Though extreme volatility might be acceptable for some investors, many would not bet there entire savings on a stock purely based on these meme stocks. But how do surges of meme stocks wripple throughout the entire market?
+Stock prices are not solely a result of the quality of a company. Prices are most specifically, based on the perceived  quality of a company. If enough people see, spread, and act based off what they see on social media, it can grow to become an equally powerful contributor to stock prices as actual business reports. Certain large media platforms seem to draw these sentiments our where entire communities can form based around a stock or idea. These communities strengthen and reinforce these sentiments causing waves of high volitiy and price surges and dips. Though extreme volatility might be acceptable for some investors, many would not bet there entire savings on a stock purely based on these meme stocks. But how do surges of meme stocks ripple throughout the entire market?
 
 For our analysis, we are focusing on a spread of stock classifications varying from income, growth, and penny.
 
 ## Why We selected the topic
-We were all onterested in how the stock market works, and the various meme stocks like Gamesop and AMC came into the conversation. The conversation slowly grew to how the market as a whole is affeccted by stocks like Gamestop and AMC getting attention on social media.
+We were all interested  in how the stock market works, and the various meme stocks like Gamesop and AMC came into the conversation. The conversation slowly grew to how the market as a whole is affected by stocks like Gamestop and AMC getting attention on social media.
 
 ## Questions they hope to answer with the data
 How is the stock market affected by the surges and dips of GME?
@@ -33,5 +33,5 @@ CSVs from YahooFinance will be cleaned in python.
 These files will get exported to a database
 
 
-files in data base run throse machine learning model (model is up and running)
+files in data base run those machine learning model (model is up and running)
 https://github.com/LukeMotley/Capstone_Project/blob/main/Farida_Work_Nov19/Notes_MachineLearning_Farida_Nov20.md
