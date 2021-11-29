@@ -18,6 +18,14 @@ Could these price changes be predicted as a new meme stock is growing?
 Reddit GME wallstreetbets data and sentiment analysis on Kaggle.com 
 Stock historical data form Yahoofinance
 
+## Description of the analysis phase of the project
+https://github.com/LukeMotley/Capstone_Project/blob/main/Farida_Stocks_analysis_Nov25/Notes_No25_Analysis.md
+
+## Database
+For this project, we decided to create a database to hold the sentiment data as well as GME stock data so that we could cross reference the two across each other. To see the code, please look at the links below:
+https://github.com/LukeMotley/Capstone_Project/blob/main/Mongo_DB_GME_Sentiment.ipynb
+https://github.com/LukeMotley/Capstone_Project/blob/main/Mongo_Query.ipynb
+
 ## Communication Protocol
 Communication will consist of zoom meetings and messages over slack.
 Meeting Times:
