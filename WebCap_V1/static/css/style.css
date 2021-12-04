@@ -1,0 +1,15 @@
+body {
+
+  color: #f7f7f7;
+}
+
+.jumbotron {
+  background-image: url("../images/stonks.jpg");
+  background-size: 100% 100%;
+  color:rgb(218, 79, 15);
+}
+
+.jumbotron h1{
+  font-weight: 800;
+  font-size: 100px;
+  }
