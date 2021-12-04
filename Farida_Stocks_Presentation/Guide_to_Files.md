@@ -81,4 +81,10 @@ PCA Analysis on stocks after the "GME explosion".
 
 **Fig 14** The PCA clusters of the change in stock price before the GME explosion, starting from Jan 1 2020 until Jan 21, 2021. The plot is made from the csv file:"Resources/Jan1_PCA_K5.csv". The hover data, color are similar to Fig 8. 
 
-## To be continued with before and after comparison.......
+## Before and After GME explosion visualzation
+
+The stock price before and after the GME explosion was calculated before. I seperated them in the data file so that the grpahs will have labels b_GME, b_AMC, b_SONY, etc for the stocks before the explosion and a_GME, a_AMC, a_SONY etc for the stocks after the explosion. This increased the number of stocks by a factor of 2, but it is easier to identify the before and after stocks.
+
+<img src = "images/Cum_perc_change_baf.png">
+
+**Fig 16** The percent change of the stocks before and after the explosion. Note that MARA did not change much after the GME explosion. AMC price went up after Jan 21, 2021. The data for this plot is in the file: *"Resources/stocks_baf.csv"*.
