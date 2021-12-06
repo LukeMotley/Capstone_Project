@@ -1,0 +1,1 @@
+This week I was given data that Farida created in the "stocks_11_PCA"csv file and created some graphs that related to the stocks given. I then created a series of stories to visualize the data and created a few slides for the introduction of our presentation. 
