@@ -43,3 +43,7 @@ These files will get exported to a database
 
 files in data base run those machine learning model (model is up and running)
 https://github.com/LukeMotley/Capstone_Project/blob/main/Farida_Work_Nov19/Notes_MachineLearning_Farida_Nov20.md
+
+
+## Tableau Presentations
+https://public.tableau.com/app/profile/luke.motley/viz/Capstone_Project_16384118823240/Dashboard2?publish=yes
