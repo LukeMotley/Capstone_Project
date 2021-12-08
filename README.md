@@ -47,3 +47,27 @@ https://github.com/LukeMotley/Capstone_Project/blob/main/Farida_Work_Nov19/Notes
 
 ## Tableau Presentations
 https://public.tableau.com/app/profile/luke.motley/viz/Capstone_Project_16384118823240/Dashboard2?publish=yes
+
+
+# Work Log
+
+## Week 1
+Luke - Github, Database Integration, Presentation
+David - Database Integration, Presentation
+Nick - Database Integration, Presentation
+Farida - Machine Learning Model, Presentation
+## Week 2
+Luke - Github, Presentation
+David - Database Integration
+Nick - Github, Presentation
+Farida - Machine Learning Model, Presentation
+## Week 3
+Luke - Github, Presentation
+David - Database Integration, Presentation
+Nick - Github, Presentation
+Farida - Machine Learning Model, Presentation
+## Week 4
+Luke - Github, Presentation
+David - Database Integration, Presentation
+Nick - Github, Presentation
+Farida - Machine Learning Model, Presentation
